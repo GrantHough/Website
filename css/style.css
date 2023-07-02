@@ -743,6 +743,10 @@ img.grayscale:hover {
 	padding-left:0;
 	padding-right:0;
 }
+
+#activities-row {
+	box-shadow: rgba(0, 0, 0, 0.05) 0px 4px 12px;
+}
 .effects {
 	padding-left:15px;
 }
